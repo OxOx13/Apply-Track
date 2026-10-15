@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 - **Repository**: [https://github.com/OxOx13/applytrack](https://github.com/OxOx13/applytrack)
-- **Live Demo**: *(Configured via Firebase Hosting below)*
+- **Live Demo**: [https://applytrack-104d3.web.app]
 
 ---
 
