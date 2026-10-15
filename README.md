@@ -1,13 +1,13 @@
 # ApplyTrack 🎯
 
-> **A clean, responsive job and internship application tracker built for your GitHub portfolio.**
+> **A responsive job and internship application tracker with status dashboards and browser-based persistence.**
 
 ![ApplyTrack Status](https://img.shields.io/badge/Release-v1.0-7c3aed?style=for-the-badge)
 ![Tech Stack](https://img.shields.io/badge/Stack-React_•_TypeScript_•_Vite-0f1d40?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 - **Repository**: [https://github.com/OxOx13/applytrack](https://github.com/OxOx13/applytrack)
-- **Live Demo**: [https://applytrack-104d3.web.app]
+- **Live Demo**: https://applytrack-104d3.web.app
 
 ---
 
